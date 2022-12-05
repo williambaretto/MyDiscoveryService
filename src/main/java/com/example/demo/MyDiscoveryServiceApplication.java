@@ -12,4 +12,3 @@ public class MyDiscoveryServiceApplication {
 		SpringApplication.run(MyDiscoveryServiceApplication.class, args);
 	}
 }
-	
